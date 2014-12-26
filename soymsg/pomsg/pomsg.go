@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/altipla-consulting/gettext/po"
+	"github.com/robfig/gettext/po"
 	"github.com/altipla-consulting/soy/soymsg"
 )
 

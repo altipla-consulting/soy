@@ -6,6 +6,6 @@ go:
 install:
   - go get github.com/robertkrimen/otto
   - go get gopkg.in/fsnotify.v0
-  - go get github.com/altipla-consulting/gettext/po
+  - go get github.com/robifg/gettext/po
 script:
   - go test github.com/altipla-consulting/soy/...

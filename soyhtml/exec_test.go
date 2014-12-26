@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/altipla-consulting/gettext/po"
+	"github.com/robfig/gettext/po"
 	"github.com/altipla-consulting/soy/ast"
 	"github.com/altipla-consulting/soy/data"
 	"github.com/altipla-consulting/soy/parse"

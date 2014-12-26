@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/altipla-consulting/gettext/po"
+	"github.com/robfig/gettext/po"
 	"github.com/altipla-consulting/soy/ast"
 	"github.com/altipla-consulting/soy/parse"
 	"github.com/altipla-consulting/soy/parsepasses"
