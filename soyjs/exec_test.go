@@ -10,10 +10,10 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/robertkrimen/otto"
 	"github.com/altipla-consulting/soy/data"
 	"github.com/altipla-consulting/soy/parse"
 	"github.com/altipla-consulting/soy/parsepasses"
+	"github.com/robertkrimen/otto"
 )
 
 // TODO: test all types of globals

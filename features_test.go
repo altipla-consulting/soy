@@ -12,9 +12,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/robertkrimen/otto"
 	"github.com/altipla-consulting/soy/data"
 	"github.com/altipla-consulting/soy/soyjs"
+	"github.com/robertkrimen/otto"
 )
 
 type d map[string]interface{}

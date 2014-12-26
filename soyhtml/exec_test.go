@@ -8,13 +8,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/robfig/gettext/po"
 	"github.com/altipla-consulting/soy/ast"
 	"github.com/altipla-consulting/soy/data"
 	"github.com/altipla-consulting/soy/parse"
 	"github.com/altipla-consulting/soy/parsepasses"
 	"github.com/altipla-consulting/soy/soymsg"
 	"github.com/altipla-consulting/soy/template"
+	"github.com/robfig/gettext/po"
 )
 
 type d map[string]interface{}

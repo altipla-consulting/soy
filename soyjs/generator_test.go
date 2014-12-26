@@ -4,10 +4,10 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/robertkrimen/otto"
 	"github.com/altipla-consulting/soy/ast"
 	"github.com/altipla-consulting/soy/parse"
 	"github.com/altipla-consulting/soy/template"
+	"github.com/robertkrimen/otto"
 )
 
 func TestGenerator(t *testing.T) {
