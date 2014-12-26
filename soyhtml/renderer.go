@@ -5,9 +5,9 @@ import (
 	"errors"
 	"io"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/soymsg"
+	"github.com/altipla-consulting/soy/ast"
+	"github.com/altipla-consulting/soy/data"
+	"github.com/altipla-consulting/soy/soymsg"
 )
 
 var ErrTemplateNotFound = errors.New("template not found")

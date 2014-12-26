@@ -13,8 +13,8 @@ import (
 	"testing"
 
 	"github.com/robertkrimen/otto"
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/soyjs"
+	"github.com/altipla-consulting/soy/data"
+	"github.com/altipla-consulting/soy/soyjs"
 )
 
 type d map[string]interface{}

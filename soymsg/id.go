@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/robfig/soy/ast"
+	"github.com/altipla-consulting/soy/ast"
 )
 
 // calcID calculates the message ID for the given message node.

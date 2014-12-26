@@ -80,7 +80,7 @@ This example is from
 https://developers.google.com/closure/templates/docs/helloworld_java.
 
 Many more examples of soy language features/commands may be seen here:
-https://github.com/robfig/soy/blob/master/testdata/features.soy
+https://github.com/altipla-consulting/soy/blob/master/testdata/features.soy
 
 Usage example
 

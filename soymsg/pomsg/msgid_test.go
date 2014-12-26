@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/parse"
-	"github.com/robfig/soy/soymsg"
+	"github.com/altipla-consulting/soy/ast"
+	"github.com/altipla-consulting/soy/parse"
+	"github.com/altipla-consulting/soy/soymsg"
 )
 
 func TestValidate(t *testing.T) {

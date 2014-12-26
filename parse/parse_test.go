@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/robfig/soy/ast"
+	"github.com/altipla-consulting/soy/ast"
 )
 
 type parseTest struct {

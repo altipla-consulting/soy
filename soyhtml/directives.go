@@ -9,7 +9,7 @@ import (
 	"text/template"
 	"unicode/utf8"
 
-	"github.com/robfig/soy/data"
+	"github.com/altipla-consulting/soy/data"
 )
 
 // PrintDirective represents a transformation applied when printing a value.

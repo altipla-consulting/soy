@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"regexp"
 
-	"github.com/robfig/soy/ast"
+	"github.com/altipla-consulting/soy/ast"
 )
 
 // Provider provides access to message bundles by locale.

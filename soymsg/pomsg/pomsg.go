@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/robfig/gettext/po"
-	"github.com/robfig/soy/soymsg"
+	"github.com/altipla-consulting/gettext/po"
+	"github.com/altipla-consulting/soy/soymsg"
 )
 
 type provider struct {

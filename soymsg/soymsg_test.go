@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/parse"
+	"github.com/altipla-consulting/soy/ast"
+	"github.com/altipla-consulting/soy/parse"
 )
 
 // Test that NewMessage correctly splits a message string into message parts.

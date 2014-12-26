@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/robfig/soy/ast"
+	"github.com/altipla-consulting/soy/ast"
 )
 
 // Validate checks if the given message is representable in a PO file.

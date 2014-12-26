@@ -6,7 +6,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/robfig/soy/ast"
+	"github.com/altipla-consulting/soy/ast"
 )
 
 // Registry provides convenient access to a collection of parsed Soy templates.

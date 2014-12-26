@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/robfig/soy/soymsg"
+	"github.com/altipla-consulting/soy/soymsg"
 )
 
 func TestPOBundle(t *testing.T) {

@@ -3,8 +3,8 @@ package soyhtml
 import (
 	"testing"
 
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/parse"
+	"github.com/altipla-consulting/soy/data"
+	"github.com/altipla-consulting/soy/parse"
 )
 
 func TestEvalExpr(t *testing.T) {

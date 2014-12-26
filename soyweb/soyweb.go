@@ -3,7 +3,7 @@ Package soyweb is a simple development server that serves the given template.
 
 Invoke it like so:
 
-  go get github.com/robfig/soy/soyweb
+  go get github.com/altipla-consulting/soy/soyweb
   soyweb test.soy
 
 It will attempt to execute the "soyweb.soyweb" template found in the given file.
@@ -22,8 +22,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/robfig/soy"
-	"github.com/robfig/soy/data"
+	"github.com/altipla-consulting/soy"
+	"github.com/altipla-consulting/soy/data"
 )
 
 var port = flag.Int("port", 9812, "port on which to listen")

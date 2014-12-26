@@ -1,6 +1,6 @@
 package soyhtml
 
-import "github.com/robfig/soy/data"
+import "github.com/altipla-consulting/soy/data"
 
 // scope handles variable assignment and lookup within a template.
 // it is a stack of data maps, each of which corresponds to variable scope.

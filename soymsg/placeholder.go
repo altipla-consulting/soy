@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/robfig/soy/ast"
+	"github.com/altipla-consulting/soy/ast"
 )
 
 // setPlaceholderNames generates the placeholder names for all children of the

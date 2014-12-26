@@ -1,6 +1,6 @@
 package template
 
-import "github.com/robfig/soy/ast"
+import "github.com/altipla-consulting/soy/ast"
 
 // Template is a Soy template's parse tree, including the relevant context
 // (preceeding soydoc and namespace).

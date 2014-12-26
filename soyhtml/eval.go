@@ -3,8 +3,8 @@ package soyhtml
 import (
 	"io/ioutil"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/data"
+	"github.com/altipla-consulting/soy/ast"
+	"github.com/altipla-consulting/soy/data"
 )
 
 // EvalExpr evaluates the given expression node and returns the result.  The

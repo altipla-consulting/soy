@@ -8,10 +8,10 @@ import (
 	"runtime"
 	"runtime/debug"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/soymsg"
-	soyt "github.com/robfig/soy/template"
+	"github.com/altipla-consulting/soy/ast"
+	"github.com/altipla-consulting/soy/data"
+	"github.com/altipla-consulting/soy/soymsg"
+	soyt "github.com/altipla-consulting/soy/template"
 )
 
 // Logger collects output from {log} commands.

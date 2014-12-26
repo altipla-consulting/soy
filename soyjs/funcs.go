@@ -1,6 +1,6 @@
 package soyjs
 
-import "github.com/robfig/soy/ast"
+import "github.com/altipla-consulting/soy/ast"
 
 // JSWriter is provided to functions to write to the generated javascript.
 type JSWriter interface {

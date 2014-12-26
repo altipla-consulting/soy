@@ -9,12 +9,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/robfig/gettext/po"
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/parse"
-	"github.com/robfig/soy/parsepasses"
-	"github.com/robfig/soy/soymsg/pomsg"
-	"github.com/robfig/soy/template"
+	"github.com/altipla-consulting/gettext/po"
+	"github.com/altipla-consulting/soy/ast"
+	"github.com/altipla-consulting/soy/parse"
+	"github.com/altipla-consulting/soy/parsepasses"
+	"github.com/altipla-consulting/soy/soymsg/pomsg"
+	"github.com/altipla-consulting/soy/template"
 )
 
 func usage() {
